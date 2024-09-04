@@ -4,6 +4,7 @@ Obligatorisk arbeidskrav lenke: https://itfag.usn.no/~kvisli/DAT2000/oblig/DAT20
 
 Hva som skal gjøres generert av chatGPT:
 Oppgave 1: Programmer i databasen
+
 A. Trigger
 
     Opprette en trigger som reagerer på nye rader i databruk-tabellen.
